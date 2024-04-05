@@ -3,7 +3,7 @@
 
 The Assignment 1 is called "The History App"
 
-The Documatation is the purpise of the app in detail. 
+The Documatation includes, the purporse, the design considerations, the GitHub and GitHub Actions
 
 The Testing and Automated testing 
 
